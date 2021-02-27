@@ -43,7 +43,7 @@ Last updated: 2. 27. 2021
 9. Denature by putting tissue culture plate tops with coverslips on 80C waterbath. 10 minutes. 
    - FISH works better at higher temp (e.g. 94C) but higher temp kills IF signal more efficiently.
 
-10. Incubate at 42oC O/N 
+10. Incubate at 42C O/N 
     - Incubation temp varies depending on your probe's melting temp.
 
 11. Put 2X SSC on coverslip. Without this, you may not flip over coverslip due to surface tension between culture plate tops and coverslips.
@@ -54,14 +54,14 @@ Last updated: 2. 27. 2021
 13. Wash three times in 2X SSC 
     - second one with DNA staining dye (HOECHST, 1:10000, if it is not SABER FISH)
 
-14. Mount coverslips (SABER-FISH, see 15-18)
+14. Mount coverslips (SABER-FISH, see 15-17)
 
 
 ### For SABER
-15. After wash, incubate for 1 hour at 37C w/ 1uM detection oligo in PBS. 
+15. After wash, incubate for 1 hour at 37C w/ 50uL (for 18mm coverslips) 1uM detection oligo in PBS. 
 
 16. Then another 3 times PBS wash (2nd time /w HOECHST)
-    - Tried to maintain PBS at 37 during wash as much as possible. 
+    - Tried to maintain PBS at 37C during wash as much as possible. 
 
 17. Mount coverslips.
 
