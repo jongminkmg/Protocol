@@ -59,6 +59,7 @@ Last updated: 2. 27. 2021
 
 ### For SABER
 15. After wash, incubate for 1 hour at 37C w/ 50uL (for 18mm coverslips) 1uM detection oligo in PBS. 
+    - Before incubation, do a last quick PBS wash.
 
 16. Then another 3 times PBS wash (2nd time /w HOECHST)
     - Tried to maintain PBS at 37C during wash as much as possible. 
