@@ -31,7 +31,7 @@ Last updated: 4. 13. 2021
    > Usually okay to skip. 0.05% Triton-X in antibody incubation steps sufficient to permeabilize for the most part. 
 
 5. Block cells for 30 minutes at RT with PBST 3% BSA. 
-   > Make 50uL drops of blocking solution on the culture plate lid. Put coverslips cell facing down. (for 12mm coverslips).<br>
+   > Make 60uL drops of blocking solution on the culture plate lid. Put coverslips cell facing down. (for 18mm coverslips, 30uL for 12mm).<br>
    > Block can be ~10 minutes to overnight (at 4C for O/N)
  
 6. Replace blocking buffer with 1’ Abs in PBST 3% BSA. Incubate O/N at 4C.
@@ -49,4 +49,4 @@ Last updated: 4. 13. 2021
 10. Quick rinse with dH2O
  
 11. Mount coverslips on Vectashield(mounting media) containing DAPI. Then seal with nail polish.
-    > 18mm diameter circle: 6.5uL mounting media / 12mm rectangle: 2.5uL mounting media 
+    > 18mm diameter circle: 6.5uL mounting media / 12mm diameter circle: 2.5uL mounting media 
