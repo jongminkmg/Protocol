@@ -1,4 +1,4 @@
-Last updated: 6. 20. 2021
+Last updated: 6. 21. 2021
 
 # Material 
   - Cell or tissue lysates <br>
@@ -57,8 +57,8 @@ Last updated: 6. 20. 2021
     - Hard tissues, first grinding in LN2 and then homogenizing works the best.
 
 2. Add lysis buffer.
-    - 100-250uL per 1mg tissue (4-10ug/uL range. In practice, you get much lower protein conc. than expected, since not all protein will be solubilized.) 
-    - 10-25uL per 1M cells (assuming 50ug total protein / 1M cell, to get 2-5ug/uL range lysate)
+    - 30-50uL per 1mg tissue (1mg/30-50uL = 20-33ug/uL range. But since it's not' dry protein weight', actual conc. will be far lower) 
+    - 10-25uL per 1M cells (assuming 50ug total protein/1M cells, to get 2-5ug/uL range lysate)
 
 3. Homogenize with your favorite method.
 
