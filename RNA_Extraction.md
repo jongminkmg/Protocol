@@ -24,7 +24,7 @@ Last updated: 2. 26. 2022
 5. Transfer aqueous layer to fresh tube.
     > Usually between 2~300uL (supposed to be ~60% of original Trizol vol. but usually less than that especially for tissues).<br><br>
     > (!) From here, you need to worry about RNA degradation by RNases. <br>
-    > (!) I don't use DEPC, RNAse Zap, etc. Try to use clean solutions, and try not to chat while working on RNA.<br>
+    > (!) I don't use DEPC, RNAse Zap, etc. Try to use clean solutions, use filtered tips, and try not to chat while working on RNA.<br>
     > (!) It will be safer to assume you have RNase in your solution, and keep things at 4C to minimize RNase activity. 
     
 
