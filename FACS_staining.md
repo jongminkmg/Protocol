@@ -50,3 +50,20 @@ Last updated: 5. 18. 2023
 
 - Pre-coat all plastic surface with ~0.1% BSA PBS to prevent cell loss.
 
+### Example profile & result 
+
+- From one adult mouse (two testes), I usually get 30~50M cells. Not all of these will be sorted as I lose them during staining/washing. 
+- From there, I get 300-400K cKIT(+) cells or 30-40K THY1(+) cells.
+
+![THY1 profile, 1,000,000 events](https://github.com/jongminkmg/Storage/blob/main/THY1.png?raw=true "THY1 profile, 1,000,000 events")
+<br> THY1&ITGa6 profile, 1,000,000 events, ~0.2% of total 'events' (not cells) <br><br>
+
+![THY1 result](https://github.com/jongminkmg/Storage/blob/main/THY1_cells.png?raw=true "THY1 result")
+<br> THY1&ITGa6 result<br><br>
+
+![cKIT profile, 100,000 events](https://github.com/jongminkmg/Storage/blob/main/cKIT.png?raw=true "cKIT profile, 100,000 events")
+<br> cKIT profile, 100,000 events, 2~4% of total 'events' (not cells)<br><br>
+
+![cKIT result](https://github.com/jongminkmg/Storage/blob/main/cKIT-1_cells.png?raw=true "cKIT result")
+<br> cKIT result<br><br>
+
