@@ -52,7 +52,7 @@ e.g.)<br>
 
 11. Add 1mL 0.2M triethanolamine pH 8.2
     > [0.2M triethanolamine prep]<br>
-    > e.g. 1160uL of 6.7M Triethanolamine 35mL H2O, pH w/ HCl (last time, 3200uL HCl used), bring to final vol. of 40mL <br><br>
+    > e.g. 1160uL of 6.7M Triethanolamine 35mL H2O, pH w/ HCl (last time, 3200uL 1N HCl used), bring to final vol. of 40mL <br><br>
     > Note most recent calculation: Triethanolamine (T58300) - 1.124g/mL, 149.19g/mol, so 7.5M, so based on this, need to add 1067uL <br>
     > Or if you use 'weight',<br>
     > 149.19 g:1 mol = x g: 0.2 mol, x = 29.8g/1000mL, add 2.98g for 100mL <br>
@@ -126,11 +126,12 @@ Elution buffer
 |25X cOmplete protease inhibitor|1X cOmplete protease inhibitor|40|
 |H2O| .|800|
 
-33. Turn heat block to 70C, turn another heat block to 100C 
- 
+33. Turn heat block to 70C. 
+    > I like to use oven because solution evaporates to the tube tops in heat blocks.
+
 34. Using magnet, collect supernatant. Save as 'flow through' for Western blot later. 
  
-35. Immediately replace the depleted supernatant with 1mL cold lysis buffer and incubate beads on rotator for 5 min @ 4C
+35. Wash. Immediately replace the depleted supernatant with 1mL cold lysis buffer and incubate beads on rotator for 5 min @ 4C
 Wash with lysis buffer.
  
 36. Repeat wash 2x with 1mL lysis buffer wash (don’t spin between washes, use magnet!)
@@ -142,14 +143,16 @@ Wash with lysis buffer.
  
 39. Vortex lightly briefly. 
  
-40. Incubate bead in elution buffer @ 70C for 30 min. with frequent (every 5 min) vortexing. 
+40. Incubate bead in elution buffer @ 70C for 30 min. with frequent (every 5 min) light vortexing. 
  
 41. Spin tubes at RT for 10 seconds to take evaporated liquid down. 
  
-42. Hold beads in place with magnet and transfer all the supernatant to a new tube. 
+42. Hold beads in place with magnet and transfer all the supernatant to a new tube. This is your IPed material.
 
 
 # TCA precipitation 
+
+> Sometimes you want to load all the IPed material for Western or mass spec. TCA precipitation can effectiverly precipitate protein to reduce sample volume. 
  
 1. Add 50uL of TCA to 200uL eluate (20% TCA final)
  
@@ -160,4 +163,4 @@ Wash with lysis buffer.
 4. -20C acetone wash (1mL) (– leave on ice 5min before cfg.)
  
 5. remove acetone, dry, resuspend in 13uL 1X western loading buffer.
-
+    > You can also submit TCA-precipiated pellet (pellet may not be visible) to mass spec facility.
