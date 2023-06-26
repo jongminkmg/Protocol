@@ -67,8 +67,8 @@ Last updated: 6. 21. 2021
 
 5. If still viscous, sonicate (Bioruptor high, 30sec on / 30sec down, 3 times)
 
-6. Measure concentration with BCA (w/ SDS) or Bradford (w/o SDS).
-
+6. Measure concentration with BCA (w/ SDS).
+    > You can use Bradford if the buffer did not contain SDS.
 7. Calculate loading volumes and make loading samples by mixing 5X loading buffer. 
 (Load 10-20ug of protein/well, 15uL max.)
 
