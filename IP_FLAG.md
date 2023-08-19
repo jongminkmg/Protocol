@@ -81,7 +81,8 @@ Last updated: 8. 18. 2023
 - FLAG Elution buffer
 Dilute FLAG peptide to a final concentration of 0.4-1mg/mL in the lysis buffer
 
-- SDS Elution buffer (not needed for this time)
+- SDS Elution buffer (not needed for this time)<br>
+
 |Component| Final| 1mL |
 |---------|----------|--|
 |1M Tris-HCl, pH 8.0|50mM Tris-HCl, pH 8.0|50|
