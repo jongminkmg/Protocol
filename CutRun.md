@@ -22,6 +22,15 @@
 |20% Triton-X 100|0.05% Triton-X|250uL|
 |H2O| .|97.35mL|
 
+- Wash buffer w/o EDTA (okay up to 6 months at 4C)
+
+|Component| Final| 100mL | 
+|---------|----------|--|
+|1M HEPES-KOH pH 7.9|20mM HEPES|2mL|
+|5M NaCl| 150mM NaCl|3mL|
+|20% Triton-X 100|0.05% Triton-X|250uL|
+|H2O| .|97.75mL|
+
   > (I think) Cut&Run needs HEPES based buffer, instead of PBS, as addition of Ca causes precipitation of phosphates? in PBS.
 
 - Antibody binding buffer<br>
@@ -36,18 +45,21 @@ Add 300mg of BSA to 10mL of wash buffer. Store at -20C.
 |0.2M EGTA pH 8|4mM EGTA|200uL|
 |H2O| .|8680uL|
 
-Add RNase (10mg/mL, 200X) fresh
+Add RNase (10mg/mL, 200X, final 50ug/mL) fresh
 
+
+# Day1 - attach ConA beads to cells, incubate with antibodies 
+
+1. Take Concanavalin A-coated beads - 10uL per each sample (e.g. take 120uL for 12 samples)
+    > 10uL for 100~200K cells. But I think this is in access. <br>
+    Empirically optimize the amount of beads by checking supernatant after bead binding to cells.
+
+2. Wash 2X with 1mL bead binding buffer
+
+3. Resuspend in a volume of bead binding buffer equal to the volume of bead slurry.
 
 
 (!)Below copy&pase, so update later.
-
-
-# Conjugate antibodies to magnetic beads
-  > Usually people do IP w/o crosslinking. This step is helpful if you do not want antibodies elute with immunoprecipitated material.<br>
-  > If your protein of interest is not ~25 (light) or ~50kDa (heavy chain), then okay without crosslinking.
-
-[below example for 4 IPs]
 
 1. Take 200uL Protein A dynabeads (30uL/IP and 20uL/preclear) x 4 IPs
     > Mix beads well before taking an aliquot
