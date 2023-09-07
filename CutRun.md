@@ -80,7 +80,7 @@ Example image of spermatocytes bound ConA beads<br>
 
 <b> [Bind primary antibodies] </b><br>
 
-9. Wash/incubate once with antibody buffer (PBST, BSA, EDTA)
+9. Wash/incubate once with antibody buffer (wash buffer + EDTA + BSA)
 
 10. Divide into aliquots in 2mL tubes, one for each antibody to be used.
  
