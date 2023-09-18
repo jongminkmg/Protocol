@@ -54,12 +54,12 @@ Note, a very good protocol is on [Penn Vet center](https://protocols.hostmicrobe
     > RSB has 0.1% Tween 20, which prevents DNA loss by adhering to plastic surface.<br>
     > It's been okay for me *not* using LoBind tubes.
 
-3. Equilibrate the cartridge and the flow cell to room temp. 30 minutes prior to sequencing.
+3. Equilibrate the cartridge and the flow cell by taking them out to the room temp. 30 minutes prior to sequencing.
 
-4. Go to NextSeq machine. Log in with your Basespace credentials. Follow instructions.
+4. Go to NextSeq machine. Log in with your Basespace credentials. Follow program's instructions (see below)
 
-5. Open the cartridge and invert the cartridge 10 times to mix reagents.
+5. Take the cartridge out from the foil and invert it 15 times to mix reagents.
 
-6. Open to flow cell and assemble it into the cartridge.
+6. Assemble the flow cell into the cartridge.
 
 7. Load 20uL of diluted library to the cartridge.
