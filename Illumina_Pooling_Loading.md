@@ -48,8 +48,9 @@ Save as planned.
 
 Note, a very good protocol is on [Penn Vet center](https://protocols.hostmicrobe.org/nextseq-2000). Below is my simplified protocol. 
 
-1. Thaw the cartridge on the bench (in the foil) at least 9 but no more than 16 hours. Then move to 4C till 30 minutes prior to sequencing.
-
+1. Thaw the cartridge on the bench (in the foil) at least 6 but no more than 16 hours. Then move to 4C till 30 minutes prior to sequencing.
+    > Some protocol says thaw at least 9 hours, but Illumina PDF says 6 hours.
+    
 2. Final dilution: dilute your library 600pM with RSB
     > RSB has 0.1% Tween 20, which prevents DNA loss by adhering to plastic surface.<br>
     > It's been okay for me *not* using LoBind tubes.
