@@ -53,7 +53,7 @@ Add RNase (10mg/mL, 200X, final 50ug/mL) fresh
 # Day1 - attach ConA beads to cells, incubate with antibodies 
 
 1. Take Concanavalin A-coated beads - 10uL per each sample (e.g. take 120uL for 12 samples)
-    > 10uL for 100~200K cells. But I think this is in access. <br>
+    > 10uL for 100~200K cells. But I think this is in excess. <br>
     Empirically optimize the amount of beads by checking supernatant after bead binding to cells.
 
 2. Wash 2X with 1mL bead binding buffer
