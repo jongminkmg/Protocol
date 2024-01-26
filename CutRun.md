@@ -65,9 +65,9 @@ NOTE: Treat cells and cell+beads gently. Not too long magnet binding. Using wide
  
 4. Obtain ~100,000 single cell suspensions. Fix with 1% formaldehyde for 1min.
  
-5. Quench by directly adding 1M Tris to a final concentration of >200mM.
+5. Quench by directly adding the same vol. 1M Tris to a final concentration of ~500mM. Incubate ~5 min.
 
-6. Cfg. in FACS tubes in 500G for 6min. Remove supernatant, leaving ~100uL.
+6. Cfg. in FACS tubes in 600G for 6min. Remove supernatant, leaving ~100uL.
  
 7. Resuspend cells in the wash buffer (0.05% Triton-X, (!) NO EDTA)
     > Typically, you would wash multiple times, but to avoid losing cells, I do not wash and go to the next steps.
