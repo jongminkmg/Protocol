@@ -1,4 +1,4 @@
-Last updated 9. 5. 2023 
+Last updated 1. 27. 2024
 
 
 # Material 
@@ -85,7 +85,8 @@ Example image of spermatocytes bound ConA beads<br>
 10. Divide into aliquots in 2mL tubes, one for each antibody to be used.
  
 11. Add 100uL of antibody buffer with each antibody. Incubate O/N at 4C.
-    >  Many protocol says rocking or rotating. I leave them stationary. If possible, occasional flicking. 
+    >  Many protocol says rocking or rotating. I leave them stationary. If possible, occasional flicking when I use 2mL tubes.
+    > If I use PCR strips, cannot mix by flicking. I occasionally rotate. 
 
 # Day2 - pA-MNase binding, digestion, release & collection of targets
 
@@ -97,6 +98,8 @@ Example image of spermatocytes bound ConA beads<br>
 
 <b> [Bind Protein A-MNase fusion protein] </b> <br>
 
+NOTE: If you leave beads+cells on magenet too long, beads+cells can aggregate. Very quick (5 sec) should be enough for PCR strip magnets.
+
 14. Wash beads with wash buffer (w/ EDTA, 2X)
  
 15. Add pA-MNase to a final conc. 500ng/mL in wash buffer with BSA, EDTA 100uL 
@@ -104,7 +107,7 @@ Example image of spermatocytes bound ConA beads<br>
  
 16. Incubate >2 hr at 4C.
 
-17. Wash 2X with 500uL wash buffer and then final wash buffer w/o EDTA
+17. Wash 2X with 500uL wash buffer and then final wash buffer w/o EDTA (~200uL wash when using PCR strip)
  
 <b> [Targeted digestion] </b> <br>
 
@@ -117,7 +120,7 @@ Example image of spermatocytes bound ConA beads<br>
  
 * Warm up 2X STOP solution to 37C.
  
-20. Add 100uL 2XSTOP and mix by gentle tapping
+20. Add 100uL 2XSTOP and mix by gentle tapping (or up&down when using PCR strip)
  
  
 <b> [Target chromatin release] </b> <br>
