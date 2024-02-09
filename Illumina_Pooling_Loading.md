@@ -32,7 +32,7 @@ Last updated 9. 18. 2023
 3. Prepare the run as screenshots below
 
 ![1](https://github.com/jongminkmg/Storage/blob/main/Basespace1.png?raw=true "Basespace 1")
-Next<br><br>
+Next (NOTE below, now choose Illumina DRAGEN BCL Convert - 3.10.4, not 3.7.4) (JKim updated, 2.9.2024) <br><br>
 ![2](https://github.com/jongminkmg/Storage/blob/main/Basespace2.png?raw=true "Basespace 2")  
 Next<br><br>
 ![3](https://github.com/jongminkmg/Storage/blob/main/Basespace3.png?raw=true "Basespace 3")
