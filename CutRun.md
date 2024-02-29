@@ -1,4 +1,4 @@
-Last updated 1. 27. 2024
+Last updated 2. 29. 2024
 
 
 # Material 
@@ -68,8 +68,9 @@ NOTE: Treat cells and cell+beads gently. Not too long magnet binding. Using wide
 5. Quench by directly adding the same vol. 1M Tris to a final concentration of ~500mM. Incubate ~5 min.
 
 6. Cfg. in FACS tubes in 600G for 6min. Remove supernatant, leaving ~100uL.
- 
-7. Resuspend cells in the wash buffer (0.05% Triton-X, (!) NO EDTA)
+    > Higher Cfg because it is fixed (a. cells now already dead, b. needs higher cfg to pellet)
+  
+7. Resuspend cells in the wash buffer (0.05% Triton-X, (!) NO EDTA)  
     > Typically, you would wash multiple times, but to avoid losing cells, I do not wash and go to the next steps.
   
 8. Add bead slurry cells and rotate 5-10min at room temp.
@@ -86,28 +87,29 @@ Example image of spermatocytes bound ConA beads<br>
  
 11. Add 100uL of antibody buffer with each antibody. Incubate O/N at 4C.
     >  Many protocol says rocking or rotating. I leave them stationary. If possible, occasional flicking when I use 2mL tubes.
-    > If I use PCR strips, cannot mix by flicking. I occasionally rotate. 
+    > If I use PCR strips, cannot mix by flicking. I occasionally rotate (I prefer using 2mL tubes, even if I cannot use multi-channel). 
 
 # Day2 - pA-MNase binding, digestion, release & collection of targets
 
 <b> [Bind secondary antibodies] (skip if no mouse antibody was used)] </b> <br>
 
-12. Wash beads with wash buffer with EDTA
+12. Wash beads with 1mL wash buffer with EDTA
  
 13. Add 100uL of antibody buffer with appropriate secondaries. Incubate >2hr at 4C.
 
 <b> [Bind Protein A-MNase fusion protein] </b> <br>
 
-NOTE: If you leave beads+cells on magenet too long, beads+cells can aggregate. Very quick (5 sec) should be enough for PCR strip magnets.
+NOTE: If you leave beads+cells on magenet too long, beads+cells can aggregate. Very quick (5 sec) should be enough for most type of magnets.
 
 14. Wash beads with wash buffer (w/ EDTA, 2X)
  
 15. Add pA-MNase to a final conc. 500ng/mL in wash buffer with BSA, EDTA 100uL 
-    > Used Sharon single (Ni-alone) purified pA-MN (0.5mg/mL) in 1000X (Final 500ng/mL)
+    > Used Sharon single (Ni-alone) purified pA-MN (0.5mg/mL) in 1000X (Final 500ng/mL).
+    > Again, the amount of pA-MN needs empirical optimization.
  
-16. Incubate >2 hr at 4C.
+16. Incubate 2 hr at 4C.
 
-17. Wash 2X with 500uL wash buffer and then final wash buffer w/o EDTA (~200uL wash when using PCR strip)
+17. Wash 2X with 1mL wash buffer and then final wash buffer w/o EDTA (~200uL wash when using PCR strip)
  
 <b> [Targeted digestion] </b> <br>
 
@@ -116,7 +118,7 @@ NOTE: If you leave beads+cells on magenet too long, beads+cells can aggregate. V
 18. Resuspend beads with 100uL wash buffer (w/o EDTA) + 4mM CaCl2
     > I use 4mM CaCl2 instead of suggested 2mM CaCl2, because my buffers had EDTA throught till right before the digestion.<br>
  
-19. Incubate at 4C for 2 hours.
+19. Incubate 2 hr at 4C.
  
 * Warm up 2X STOP solution to 37C.
  
