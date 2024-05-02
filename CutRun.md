@@ -36,7 +36,7 @@ Last updated 2. 29. 2024
   > (I think) Cut&Run needs HEPES based buffer, instead of PBS, as addition of Ca causes precipitation of phosphates? in PBS.
 
 - Antibody binding buffer<br>
-Add 300mg of BSA to 10mL of wash buffer. Aliquot and store at -20C. 
+Add 300mg of BSA to 10mL of wash buffer (w/ EDTA). Aliquot and store at -20C. 
 
 - 2X STOP buffer (okay up to 6 months at 4C)
 
