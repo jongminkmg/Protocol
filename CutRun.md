@@ -40,12 +40,12 @@ Add 300mg of BSA to 10mL of wash buffer (w/ EDTA). Aliquot and store at -20C.
 
 - 2X STOP buffer (okay up to 6 months at 4C)
 
-|Component| Final| 10mL | 
-|---------|----------|--|
-|5M NaCl| 340mM NaCl|720uL|
-|0.5M EDTA pH 8|20mM EDTA|400uL|
-|0.2M EGTA pH 8|4mM EGTA|200uL|
-|H2O| .|8680uL|
+|Component| Final| 3mL| 10mL | 
+|---------|----------|--|--|
+|5M NaCl| 340mM NaCl|216uL|720uL|
+|0.5M EDTA pH 8|20mM EDTA|120uL|400uL|
+|0.2M EGTA pH 8|4mM EGTA|60uL|200uL|
+|H2O| .|2604uL|8680uL|
 
 Add RNase (10mg/mL, 200X, final 50ug/mL) fresh
 
