@@ -1,3 +1,9 @@
+# General note 
+Below is the protocol I use for SABER-FISH. The protocol works for oligopaint probes.<br>
+https://pubmed.ncbi.nlm.nih.gov/31110282/
+
+Somehow, this protocol did not work with HCR probes and detection oligos. I think there may be a stupid reason that HCR did not work, which I haven't figured out. 
+
 # Material 
 Cells plated or grown on 12mm or 18mm circle No. 1 coverslips.
 
@@ -5,7 +11,7 @@ Fixed w/ 4% formaldehyde in PBS for 15 minutes at room temperature.
 
 # Protocol 
 
-Last updated: 2. 27. 2021
+Last updated: 6. 2. 2024
 
 0. For IF-FISH, you first perform IF, then fix again with 4% formaldehyde in PBS. You can skip the permeabilization step in (1).
 
@@ -23,11 +29,11 @@ Last updated: 2. 27. 2021
 
 6. Briefly air dry coverslip
  
-7. Put 20 uL of hyb solution (50% formamide, 2X SSC, 10% dextran sulfate, 2 ug of mouse Cot1 DNA, 1 uL of paint probe (5pmol), 1uL of secondary Cy3 labeled probe (5pmol)) on slide. 
-   - Above is from Hongjae's oligopaint protocol. I used fragmented salmon sperm DNA instead of Cot1 DNA
+7. Put 20 uL of hyb solution (50% formamide, 2X SSC, 10% dextran sulfate, 2 ug of mouse Cot1 DNA, 1 uL of paint probe (5pmol), 1uL of secondary Cy3 labeled probe (5pmol)) on a slide glass. 
+   - Above buffer composition in () is from Hongjae's oligopaint protocol. I used fragmented salmon sperm DNA instead of Cot1 DNA
    - See below for uptodate hyb mix. 
    - Did not add H2O assuming 20% volume will be filled with probes.
-   - Carefully mix well. It will require >20 times pipetting up&down with wide end tips.
+   - Carefully mix well. It will require >20 times pipetting up&down with wide-bore tips.
 
 |Component| for 100uL| for e.g. 300uL|
 |---------|----------|---------------|
@@ -40,8 +46,8 @@ Last updated: 2. 27. 2021
 8. Put coverslip over hyb solution(20uL), cell-side facing down
    - I try to keep the hyb solution at 42C before putting coverslips. Not sure if this mattters.
 
-9. Denature by putting tissue culture plate tops with coverslips on 80C waterbath. 10 minutes. 
-   - FISH works better at higher temp (e.g. 94C) but higher temp kills IF signal more efficiently.
+9. Denature by putting coverslip+hyb soln+slide glass on PCR machine with sample and cover set at 80C. 10 minutes. 
+   - FISH signal will be better at higher temp (e.g. 94C) but higher temp kills IF signal.
 
 10. Incubate at 42C O/N 
     - Incubation temp varies depending on your probe's melting temp.
